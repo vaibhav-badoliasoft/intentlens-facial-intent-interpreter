@@ -13,10 +13,6 @@ This project is based on the Group 5 IFT 536 research question:
 
 The original group research explored whether facial expressions improve intent recognition accuracy in spoken communication. Lab 2 identified relevant literature, theories, and current approaches such as iMotions Lab, Qatalyst, and Q for Sales. Lab 3 defined the experimental variables, participant structure, and data collection strategy.
 
-:contentReference[oaicite:0]{index=0}  
-:contentReference[oaicite:1]{index=1}  
-:contentReference[oaicite:2]{index=2}  
-
 ---
 ## Features
 
